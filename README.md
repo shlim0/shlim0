@@ -1,7 +1,7 @@
 <div align="left"> 
 
 #### 👋 JJong
-더 나은 코드, 끊임없는 기록을 통해 iOS 개발자를 꿈꾸는 쫑입니다.
+더 나은 코드, 끊임없는 기록을 통해 iOS 개발자를 꿈꾸는 임성현입니다.
 
 #### :wrench: Stack
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
