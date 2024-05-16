@@ -19,5 +19,5 @@
 <img src="https://img.shields.io/badge/Slack-4A145B?style=flat-square&logo=Slack&logoColor=white">
 
 #### :heavy_plus_sign: Appendix
-<a href="https://github.com/shlim0/shlim0/files/14930052/CV_SeongHyeon.pdf"><img src="https://img.shields.io/badge/Resume-8CA1AF?style=flat-square&logo=ReadtheDocs&logoColor=white"></a>
+<a href="https://github.com/shlim0/shlim0/files/15334325/CV_SeongHyeon.pdf"><img src="https://img.shields.io/badge/Resume-8CA1AF?style=flat-square&logo=ReadtheDocs&logoColor=white"></a>
 <a href="https://github.com/shlim0/shlim0/files/14930050/PF_SeongHyeon.pdf"><img src="https://img.shields.io/badge/Portfolio-4AA1AF?style=flat-square&logo=ReadtheDocs&logoColor=black"></a>
